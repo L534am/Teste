@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Minha Página Estática</title>
+  </head>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -31,7 +32,7 @@
       background-color: #0056b3;
     }
   </style>
-</head>
+
 <body>
   <header>
     <h1>Bem-vindo à Minha Página Estática!</h1>
